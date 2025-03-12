@@ -4,10 +4,10 @@
 
 ## 📫 Link to
 
-- **Homepage**: https://sunheehatesundefined.github.io/MyPortfolio/
+- **Homepage**: https://ihateundefined.github.io/MyPortfolio/
 - **Notion**: https://chestnut-fiber-71d.notion.site/My-Portfolio-1b212efc9e2b80489e2ce54ceb07dc5c
 - **이메일**: ihateundefined@gmail.com
-- **GitHub**: https://github.com/SunheeHatesUndefined
+- **GitHub**: https://github.com/ihateundefined
 
 ## 소개 👋
 
