@@ -4,7 +4,7 @@ document
   .addEventListener("click", function () {
     const email = "ihateundefined@gmail.com";
     const subject = encodeURIComponent("Contact");
-    const body = encodeURIComponent("Hello,");
+    const body = encodeURIComponent("Hello, sunhee! I'm contacting you because ...");
     window.open(
       `https://mail.google.com/mail/?view=cm&fs=1&to=${email}&su=${subject}&body=${body}`,
       "_blank"

@@ -117,10 +117,10 @@ MyPortfolio/
 │   ├── myPortfolio.png
 │   ├── comingSoon.webp
 │   ├── favicon.png
-├── README.md
 ├── index.html
 ├── styles.css
 ├── scripts.js
+├── README.md
 ```
 
 ---
