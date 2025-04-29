@@ -24,7 +24,7 @@
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" height="50" alt="Java">
   <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="50" height="50" alt="HTML">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" alt="CSS">
-  <img src="https://ko.legacy.reactjs.org/" width="50" height="50" alt="React">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50" alt="React Logo">
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="50" height="50" alt="SQL">
   <img src="https://www.svgrepo.com/show/373845/mongo.svg" width="50" height="50" alt="NoSQL">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="50" height="50" alt="Azure">
